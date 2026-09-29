@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:podcast="https://podcastindex.org/namespace/1.0"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Comunidad UXUI</title>
+    <link>https://www.skool.com/comunidaduxui/about</link>
+    <atom:link href="https://comunidaduxui.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
+    <language>es</language>
+    <copyright>© Comunidad UXUI</copyright>
+    <lastBuildDate>Tue, 29 Sep 2026 09:36:12 -0300</lastBuildDate>
+    <description>El podcast de Comunidad UXUI. Los episodios son la versión en audio de las charlas, análisis y consejos del canal de YouTube: psicología aplicada al diseño, IA para diseñadores, portfolio, entrevistas y carrera en UX/UI. Sumate a la comunidad en https://www.skool.com/comunidaduxui/about</description>
+    <itunes:subtitle>Aumenta tu seniority en diseño UX/UI a ritmo acelerado</itunes:subtitle>
+    <itunes:summary>El podcast de Comunidad UXUI. Los episodios son la versión en audio de las charlas, análisis y consejos del canal de YouTube: psicología aplicada al diseño, IA para diseñadores, portfolio, entrevistas y carrera en UX/UI. Sumate a la comunidad en https://www.skool.com/comunidaduxui/about</itunes:summary>
+    <itunes:author>Comunidad UXUI</itunes:author>
+    <itunes:owner>
+      <itunes:name>Comunidad UXUI</itunes:name>
+      <itunes:email>uxuicomunidad@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://comunidaduxui.github.io/podcast/cover-3000.jpg"/>
+    <image><url>https://comunidaduxui.github.io/podcast/cover-3000.jpg</url><title>Comunidad UXUI</title><link>https://www.skool.com/comunidaduxui/about</link></image>
+    <itunes:category text="Technology"></itunes:category>
+    <itunes:category text="Arts"><itunes:category text="Design"/></itunes:category>
+    <itunes:category text="Education"><itunes:category text="How To"/></itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <podcast:guid>3bae9856-0673-5e27-9b8c-57ef8c1df7dc</podcast:guid>
+    <podcast:locked owner="uxuicomunidad@gmail.com">no</podcast:locked>
+    <item>
+      <title>Cómo pasar de junior a senior en UX sin esperar a que pasen los años</title>
+      <itunes:title>Cómo pasar de junior a senior en UX sin esperar a que pasen los años</itunes:title>
+      <link>https://www.youtube.com/watch?v=nYp-od8wARc</link>
+      <guid isPermaLink="false">yt:nYp-od8wARc</guid>
+      <pubDate>Sun, 13 Sep 2026 12:00:00 -0300</pubDate>
+      <description><![CDATA[<p>Video original en YouTube: <a href="https://www.youtube.com/watch?v=nYp-od8wARc">https://www.youtube.com/watch?v=nYp-od8wARc</a></p><p><a href="https://www.skool.com/comunidaduxui/about">https://www.skool.com/comunidaduxui/about</a></p><p>Una búsqueda pide &quot;junior con más de cuatro años de experiencia&quot;. Entonces, ¿qué significa ser junior?</p><p>Mi primer trabajo formal en UX fue como UX Lead. <br>No por los años: porque podía manejar todas las dimensiones de la tarea que me pedían.</p><p>En este video te muestro el diamante de la tarea: las cinco dimensiones que definen tu nivel real en cada habilidad (qué, cómo, cuándo, por qué y los bloqueos), un test para identificar en qué nivel estás hoy y cinco estrategias concretas para pasar al siguiente.</p><p>CAPÍTULOS<br>00:00 Junior con cuatro años de experiencia<br>00:23 El diamante de la tarea: lavar los platos<br>02:08 El test: seis preguntas para saber tu nivel<br>03:37 El mito: la seniority no es lineal<br>05:36 El diamante en tu trabajo: junior, mid, senior y lead<br>08:13 Cinco estrategias para subir de nivel más rápido<br>12:02 Qué, cómo, cuándo y por qué</p><p>COMUNIDAD UX UI<br>Si quieres practicar en equipo, recibir feedback y conectar con colegas: skool.com/comunidaduxui</p><p>#UX #UXUI #DiseñoDeProductos #Seniority #CarreraUX</p>]]></description>
+      <enclosure url="https://github.com/ComunidadUXUI/podcast/releases/download/episodios/ep023-como-pasar-de-junior-a-senior-en-ux-sin-esperar-a-que-pasen.mp3" length="18267280" type="audio/mpeg"/>
+      <itunes:duration>0:12:32</itunes:duration>
+      <itunes:episode>23</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://comunidaduxui.github.io/podcast/cover-3000.jpg"/>
+    </item>
+    <item>
+      <title>¿La IA te va a quitar el trabajo? Lo que dice la ciencia del comportamiento</title>
+      <itunes:title>¿La IA te va a quitar el trabajo? Lo que dice la ciencia del comportamiento</itunes:title>
+      <link>https://www.youtube.com/watch?v=nkxB2Fupi4E</link>
+      <guid isPermaLink="false">yt:nkxB2Fupi4E</guid>
+      <pubDate>Fri, 28 Aug 2026 12:00:00 -0300</pubDate>
+      <description><![CDATA[<p>Video original en YouTube: <a href="https://www.youtube.com/watch?v=nkxB2Fupi4E">https://www.youtube.com/watch?v=nkxB2Fupi4E</a></p><p><a href="https://www.skool.com/comunidaduxui/about">https://www.skool.com/comunidaduxui/about</a></p><p>🎙️ Invitado: Guillermo Ponce CEO &amp; Founder de Disruptech - donde cruzan big data con una capa de comportamiento humano.</p><p>Nos habla de:<br>• Por qué el cerebro detesta el vacío de incertidumbre<br>• &quot;Te va a quitar el trabajo&quot;: cómo una frase te sube las defensas y<br>  terminas criticando algo que nunca probaste<br>• La paradoja del avestruz: por qué te obsesionas con los datos que<br>  confirman lo que ya creías<br>• Por qué se adopta lo que da valor inmediato, y por qué el sistema que<br>  prometía hacerte millonario no lo usó casi nadie<br>• La máquina que nunca impone sus ideas: disponible 24/7, sin contraparte,<br>  sin fricción<br>• &quot;Tenemos el mismo software que hace 10.000 años&quot;: por qué el cerebro<br>  siente esa conversación tan real como una humana<br>• Cómo usa la IA alguien que vive de datos (y el 80% del proyecto que<br>  antes se iba en limpiar una base)<br>• La biblioteca, los 20 libros y de dónde le viene la obsesión por el porqué<br>• Y la respuesta a la pregunta: ¿te va a quitar el trabajo?</p><p>Capítulos<br>00:00 ¿Te va a quitar el trabajo?<br>00:14 El botón sin ícono<br>02:11 La paradoja del avestruz<br>04:11 Por qué no lo adoptas<br>05:27 La máquina que nunca te lleva la contra<br>08:58 Cómo la usa alguien que vive de datos<br>09:44 La biblioteca y los 20 libros<br>12:39 La respuesta</p><p>#UX #UI #DiseñoDeProducto #InteligenciaArtificial #CienciasDelComportamiento</p>]]></description>
+      <enclosure url="https://github.com/ComunidadUXUI/podcast/releases/download/episodios/ep022-la-ia-te-va-a-quitar-el-trabajo-lo-que-dice-la-ciencia-del-c.mp3" length="21455278" type="audio/mpeg"/>
+      <itunes:duration>0:14:45</itunes:duration>
+      <itunes:episode>22</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://comunidaduxui.github.io/podcast/cover-3000.jpg"/>
+    </item>
+    <item>
+      <title>Sabios consejos de UX de un product designer ex desarrollador</title>
+      <itunes:title>Sabios consejos de UX de un product designer ex desarrollador</itunes:title>
+      <link>https://www.youtube.com/watch?v=EvjEqK-pxVU</link>
+      <guid isPermaLink="false">yt:EvjEqK-pxVU</guid>
+      <pubDate>Sat, 22 Aug 2026 12:00:00 -0300</pubDate>
+      <description><![CDATA[<p>Video original en YouTube: <a href="https://www.youtube.com/watch?v=EvjEqK-pxVU">https://www.youtube.com/watch?v=EvjEqK-pxVU</a></p><p>Te esperamos en <a href="https://www.skool.com/comunidaduxui/about">https://www.skool.com/comunidaduxui/about</a></p><p>Danny Vela estudió ingeniería en software, no le gustó, y terminó siendo product designer. Desde ese lugar, el de alguien que estuvo de los dos lados del mostrador, cuenta cómo hacer que te entiendan: el sesgo del especialista, cómo defender una decisión sin pelear, y por qué el problema casi nunca es el usuario.</p><p>Es autor de «¿Los usuarios son tontos? (Spoiler: no)».</p><p>🔴 EN VIVO CON DANNY — miércoles 26 de agosto<br>«Los usuarios no son tontos»<br>👉 <a href="https://youtube.com/live/h9DdnlgPJug?feature=share">https://youtube.com/live/h9DdnlgPJug?feature=share</a></p><p>CAPÍTULOS<br>0:00 Hay batallas que se pierden ganando<br>0:05 Qué es el UX sin miedo a las palabras<br>1:29 El sesgo del especialista<br>2:39 Nadie te avisa que no te entiende<br>3:30 Empatizar, el primer capítulo del libro<br>3:50 «Como usuario, yo no lo entiendo»<br>4:19 El chip rojo y el 60% que no lee<br>5:37 Aprender a decir que no<br>6:09 No cambié nada<br>7:02 Estudié ingeniería en software y no me gustó<br>8:29 Cómo llegó al diseño<br>9:21 Dejemos de juzgar por años de experiencia<br>9:59 Cómo surgió el libro</p><p>Descarga el libro:<br><a href="https://dragonslayer075.gumroad.com/l/gsvosv">https://dragonslayer075.gumroad.com/l/gsvosv</a></p>]]></description>
+      <enclosure url="https://github.com/ComunidadUXUI/podcast/releases/download/episodios/ep021-sabios-consejos-de-ux-de-un-product-designer-ex-desarrollado.mp3" length="15792675" type="audio/mpeg"/>
+      <itunes:duration>0:10:49</itunes:duration>
+      <itunes:episode>21</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://comunidaduxui.github.io/podcast/cover-3000.jpg"/>
+    </item>
+    <item>
+      <title>Prueba social en Diseño UX: La técnica psicológica que todo diseñador Senior domina</title>
+      <itunes:title>Prueba social en Diseño UX: La técnica psicológica que todo diseñador Senior domina</itunes:title>
+      <link>https://www.youtube.com/watch?v=1XyPR5U1cfc</link>
+      <guid isPermaLink="false">yt:1XyPR5U1cfc</guid>
+      <pubDate>Sat, 15 Aug 2026 12:00:00 -0300</pubDate>
+      <description><![CDATA[<p>Video original en YouTube: <a href="https://www.youtube.com/watch?v=1XyPR5U1cfc">https://www.youtube.com/watch?v=1XyPR5U1cfc</a></p><p>🚨 <a href="https://www.skool.com/comunidaduxui/about">https://www.skool.com/comunidaduxui/about</a> para aumentar tu seniority en diseño UX/UI más rápido </p><p>En este video exploramos uno de los principios psicológicos más potentes para mejorar la conversión y la credibilidad de cualquier producto digital: la Prueba Social (Social Proof).</p><p>Descubre porque la línea entre humildad social y dejar de pensar por tu cuenta es más<br>fina de lo que parece.</p><p>Con Guillermo Ponce CEO &amp; Founder de Disruptech, experto en ciencias del comportamiento.</p><p>CAPÍTULOS<br>00:00 El experimento<br>00:17 No decidís solo<br>01:51 El efecto arrastre<br>03:21 Por qué te callás<br>05:15 Qué hace Disrupta con esto<br>05:34 Dunning-Kruger y el impostor<br>11:02 Te evalúan con un poquito<br>12:38 Es válido cambiar de opinión</p><p>#UXUI #DiseñoUX #CienciasDelComportamiento #Psicología #ProductDesign</p>]]></description>
+      <enclosure url="https://github.com/ComunidadUXUI/podcast/releases/download/episodios/ep020-prueba-social-en-diseno-ux-la-tecnica-psicologica-que-todo-d.mp3" length="20134334" type="audio/mpeg"/>
+      <itunes:duration>0:13:50</itunes:duration>
+      <itunes:episode>20</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://comunidaduxui.github.io/podcast/cover-3000.jpg"/>
+    </item>
+    <item>
+      <title>La seniority no se mide en años: 9 consejos para diseñadores UX UI</title>
+      <itunes:title>La seniority no se mide en años: 9 consejos para diseñadores UX UI</itunes:title>
+      <link>https://www.youtube.com/watch?v=hJ8L0jk9E7M</link>
+      <guid isPermaLink="false">yt:hJ8L0jk9E7M</guid>
+      <pubDate>Wed, 05 Aug 2026 12:00:00 -0300</pubDate>
+      <description><![CDATA[<p>Video original en YouTube: <a href="https://www.youtube.com/watch?v=hJ8L0jk9E7M">https://www.youtube.com/watch?v=hJ8L0jk9E7M</a></p><p>🚨 Para aumentar tu seniority en diseño UX/UI más rápido 👉<a href="https://www.skool.com/comunidaduxui/about">https://www.skool.com/comunidaduxui/about</a></p><p>La seniority no debería medirse en años. Debería medirse en iteraciones.</p><p>Estos son 9 consejos sobre portfolio, búsqueda laboral, proceso de diseño y uso real de IA. No hay teoría de manual: son las cosas que se repiten una y otra vez trabajando con diseñadores reales, con problemas reales.</p><p>Lo que vas a encontrar:<br>· Por qué la seniority no debería medirse en años<br>· Qué hacer cuando sentís que &quot;no tenés experiencia&quot;<br>· Cómo se lee hoy un CV entre el filtro automático y el ojo humano<br>· Qué busca de verdad quien te evalúa en una entrevista<br>· Cómo usar IA sin perder tu criterio<br>· Y el consejo que se repite en todas las mentorías</p><p>Sumate a Comunidad UX UI 👉 <a href="https://skool.com/comunidaduxui/about">https://skool.com/comunidaduxui/about</a></p><p>0:00 Quién te está hablando<br>0:27 La seniority no se mide en años<br>0:31 MINDSET<br>0:34 1 · Sin sueldo también es experiencia<br>1:02 2 · La regla de los 5 minutos<br>1:25 3 · Los inputs sin recompensa inmediata<br>2:23 CRAFT<br>2:25 4 · La estrella sos vos, no tu currículum<br>3:27 5 · El filtro de la máquina, el ojo del humano<br>4:18 6 · Ser solucionador de problemas<br>5:17 Comunidad UX UI<br>6:02 IA<br>6:05 7 · Antes de ejecutar, planificá<br>6:43 8 · Conseguir clientes con Maps + Claude<br>7:30 9 · Tu diferencial es la humanidad<br>8:30 El consejo que le doy a todos</p>]]></description>
+      <enclosure url="https://github.com/ComunidadUXUI/podcast/releases/download/episodios/ep019-la-seniority-no-se-mide-en-anos-9-consejos-para-disenadores.mp3" length="12975913" type="audio/mpeg"/>
+      <itunes:duration>0:08:52</itunes:duration>
+      <itunes:episode>19</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://comunidaduxui.github.io/podcast/cover-3000.jpg"/>
+    </item>
+    <item>
+      <title>La línea entre diseñar bien y manipular es más fina de lo que parece | Psico + UX</title>
+      <itunes:title>La línea entre diseñar bien y manipular es más fina de lo que parece | Psico + UX</itunes:title>
+      <link>https://www.youtube.com/watch?v=jtgFZncsc_M</link>
+      <guid isPermaLink="false">yt:jtgFZncsc_M</guid>
+      <pubDate>Mon, 27 Jul 2026 12:00:00 -0300</pubDate>
+      <description><![CDATA[<p>Video original en YouTube: <a href="https://www.youtube.com/watch?v=jtgFZncsc_M">https://www.youtube.com/watch?v=jtgFZncsc_M</a></p><p>🚨 Para aumentar tu seniority en diseño UX/UI más rápido 👉<a href="https://www.skool.com/comunidaduxui/about">https://www.skool.com/comunidaduxui/about</a></p><p>¿Por qué nos obsesiona completar una racha en Duolingo?</p><p>La respuesta está en la ciencia del comportamiento aplicada a la gamificación.</p><p>En este video, Guillermo Ponce desarma los mecanismos:</p><p>• Por qué el cerebro necesita ver la recompensa para sostener el esfuerzo<br>• Las 4 mecánicas con las que Duolingo crea hábitos<br>• Cómo una barrita de progreso puede arreglar un seguro de retiro a 40 años<br>• El shock de dopamina de cada notificación (y por qué es TikTok)<br>• La aversión a la pérdida: nos duele 2.5 veces más perder algo que ganarlo<br>• Cómo una aseguradora cambió su mensaje y lo volvió poderosísimo<br>• Qué hacía Spotify con tus playlists si dejabas de pagar<br>• Por qué en Europa ya están regulando esto</p><p>🎙️ Invitado: Guillermo Ponce CEO &amp; Founder de Disruptech</p><p>#UXDesign #ProductDesign #CienciaDelComportamiento #Duolingo #Gamificación<br>#DiseñoDeProductos #UXUI #BehavioralDesign #Dopamina #Psicología</p>]]></description>
+      <enclosure url="https://github.com/ComunidadUXUI/podcast/releases/download/episodios/ep018-la-linea-entre-disenar-bien-y-manipular-es-mas-fina-de-lo-qu.mp3" length="9757239" type="audio/mpeg"/>
+      <itunes:duration>0:06:38</itunes:duration>
+      <itunes:episode>18</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://comunidaduxui.github.io/podcast/cover-3000.jpg"/>
+    </item>
+    <item>
+      <title>Cómo poner métricas en tu portfolio UX (sin tener datos)</title>
+      <itunes:title>Cómo poner métricas en tu portfolio UX (sin tener datos)</itunes:title>
+      <link>https://www.youtube.com/watch?v=hNAQHcbaiyE</link>
+      <guid isPermaLink="false">yt:hNAQHcbaiyE</guid>
+      <pubDate>Tue, 21 Jul 2026 12:00:00 -0300</pubDate>
+      <description><![CDATA[<p>Video original en YouTube: <a href="https://www.youtube.com/watch?v=hNAQHcbaiyE">https://www.youtube.com/watch?v=hNAQHcbaiyE</a></p><p>🚨 Para aumentar tu seniority en diseño UX/UI más rápido 👉<a href="https://www.skool.com/comunidaduxui/about">https://www.skool.com/comunidaduxui/about</a></p><p>¿Te piden métricas en tu portfolio UX y no tenés acceso a los datos del producto? </p><p>Este video responde qué mostrar cuando no tenés analytics, revenue ni resultados de producción.</p><p>Una de las consultas más repetidas de los uxer, respondida en 3 minutos.</p><p>En este video vas a encontrar:<br>· Qué miran realmente los reclutadores y evaluadores técnicos cuando revisan un portfolio<br>· Qué hacer si tus proyectos son casos de estudio, casos ficticios o rediseños propuestos<br>· Cómo hablar de KPIs y objetivos SMART sin inventar resultados que no tuviste<br>· El tipo de métrica que ya tenés y probablemente no estás usando</p><p>Para vos que estás armando tu portfolio UX/UI, preparando entrevistas, buscando tu primer trabajo en UX o haciendo un cambio de carrera hacia diseño de producto.<br>🚀 Practicá esto con proyectos reales y feedback en Comunidad UXUI<br>👉 <a href="https://skool.com/comunidaduxui">https://skool.com/comunidaduxui</a></p><p>#portfolioux #uxui #metricasux #diseñoux #comunidaduxui</p>]]></description>
+      <enclosure url="https://github.com/ComunidadUXUI/podcast/releases/download/episodios/ep017-como-poner-metricas-en-tu-portfolio-ux-sin-tener-datos.mp3" length="4616291" type="audio/mpeg"/>
+      <itunes:duration>0:03:04</itunes:duration>
+      <itunes:episode>17</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://comunidaduxui.github.io/podcast/cover-3000.jpg"/>
+    </item>
+    <item>
+      <title>No confíes en la IA para UX sin ver esto: Probando a Claude en una Auditoría</title>
+      <itunes:title>No confíes en la IA para UX sin ver esto: Probando a Claude en una Auditoría</itunes:title>
+      <link>https://www.youtube.com/watch?v=D1RdGkYyark</link>
+      <guid isPermaLink="false">yt:D1RdGkYyark</guid>
+      <pubDate>Sun, 12 Jul 2026 12:00:00 -0300</pubDate>
+      <description><![CDATA[<p>Video original en YouTube: <a href="https://www.youtube.com/watch?v=D1RdGkYyark">https://www.youtube.com/watch?v=D1RdGkYyark</a></p><p>🚨 Para aumentar tu seniority en diseño UX/UI más rápido 👉<a href="https://www.skool.com/comunidaduxui/about">https://www.skool.com/comunidaduxui/about</a></p><p>¿Realmente puede una IA reemplazar el criterio de un diseñador en una auditoría? Puse a prueba a Claude con un caso real y los resultados revelan la gran diferencia entre analizar datos y entender a un usuario.</p><p>Lo que encontré: dónde la IA brilla, dónde falla como un robot, y qué significa auditar de verdad un producto digital.</p><p>En este video vas a aprender:<br>→ La brújula de toda auditoría: balancear a la persona y al negocio<br>→ Cómo definir el scope antes de perderte en un rabbit hole infinito<br>→ Las 8 dimensiones que se evalúan en una auditoría UX<br>→ Por qué grabar tu pantalla es no-negociable<br>→ Cómo estimar datos cuando no tenés analytics (Wappalyzer + SimilarWeb)<br>→ El momento exacto en que la IA audita como un robot, no como un usuario<br>→ La fórmula real de un insight: hallazgo + consecuencia<br>→ Por qué &quot;recomendación&quot; y &quot;rediseño&quot; no son lo mismo<br>→ Cómo lograr que tus hallazgos se escuchen (con una anécdota real)</p><p>📌 Capítulos:<br>0:00 Introducción — la trampa de la IA<br>2:13 Fundamentos de una auditoría<br>12:21 Herramientas sin datos<br>14:03 El stack de skills<br>18:01 La auditoría, en vivo<br>23:11 Leer el informe<br>28:02 Insight y recomendación<br>33:29 Recursos para practicar<br>34:55 Cómo lograr que te escuchen</p><p>😎 ¿Querés practicar auditorías UX vos mismo/a? Sumate a la comunidad:<br>👉 skool.com/comunidaduxui</p>]]></description>
+      <enclosure url="https://github.com/ComunidadUXUI/podcast/releases/download/episodios/ep016-no-confies-en-la-ia-para-ux-sin-ver-esto-probando-a-claude-e.mp3" length="54657957" type="audio/mpeg"/>
+      <itunes:duration>0:37:49</itunes:duration>
+      <itunes:episode>16</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://comunidaduxui.github.io/podcast/cover-3000.jpg"/>
+    </item>
+    <item>
+      <title>Cómo sobrevivir a un jefe que diseña con IA</title>
+      <itunes:title>Cómo sobrevivir a un jefe que diseña con IA</itunes:title>
+      <link>https://www.youtube.com/watch?v=gdB88JE-3lI</link>
+      <guid isPermaLink="false">yt:gdB88JE-3lI</guid>
+      <pubDate>Thu, 09 Jul 2026 12:00:00 -0300</pubDate>
+      <description><![CDATA[<p>Video original en YouTube: <a href="https://www.youtube.com/watch?v=gdB88JE-3lI">https://www.youtube.com/watch?v=gdB88JE-3lI</a></p><p>Aprende a aplicar estos conocimientos a tus procesos en 👉 <a href="https://skool.com/comunidaduxui">https://skool.com/comunidaduxui</a></p><p>¿Alguna vez presentaste un diseño y el CEO te soltó el clásico &quot;ponle más morado&quot;? 🙄</p><p>Eso tiene nombre: HiPPO (Highest Paid Person&#x27;s Opinion). En este video, Guillermo Ponce Sabido (CEO de Disruptech) nos explica por qué este problema está evolucionando a un nivel más complejo: ahora tu jefe puede generar un logo en ChatGPT en 4 segundos y sentir que tiene la razón.</p><p>Aprendé a defender tu trabajo sin caer en una batalla de egos, transformando la subjetividad en argumentos lógicos y procesos visibles.</p><p>Lo que vas a aprender: <br>00:00 El &quot;efecto morado&quot; en las juntas <br>00:13 Qué es el HiPPO y por qué nos afecta <br>00:45 La psicología detrás del poder (Heurísticas) <br>01:23 El nuevo peligro: Jefes diseñando con IA <br>02:15 Cómo pasar del ego a la metodología <br>02:45 Consejos para blindar tu proceso creativo</p><p>Sumate a la Comunidad UX • UI para seguir optimizando tu carrera.</p><p>#UXUI #DiseñoDeProducto #HiPPO #ChatGPT #ProductDesign #CUXUI #IA #CienciasDelComportamiento #Productividad #PsicologiaUX #DiseñoHumano #UX #UXUI #CienciasDelComportamiento #Psicología #DiseñoUX #ComunidadUXUI</p>]]></description>
+      <enclosure url="https://github.com/ComunidadUXUI/podcast/releases/download/episodios/ep015-como-sobrevivir-a-un-jefe-que-disena-con-ia.mp3" length="5007475" type="audio/mpeg"/>
+      <itunes:duration>0:03:20</itunes:duration>
+      <itunes:episode>15</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://comunidaduxui.github.io/podcast/cover-3000.jpg"/>
+    </item>
+    <item>
+      <title>Precrastinación: ¿Por qué hacemos tareas que no importan? | Psicología + UX</title>
+      <itunes:title>Precrastinación: ¿Por qué hacemos tareas que no importan? | Psicología + UX</itunes:title>
+      <link>https://www.youtube.com/watch?v=4OG0f7Uiyzs</link>
+      <guid isPermaLink="false">yt:4OG0f7Uiyzs</guid>
+      <pubDate>Tue, 30 Jun 2026 12:00:00 -0300</pubDate>
+      <description><![CDATA[<p>Video original en YouTube: <a href="https://www.youtube.com/watch?v=4OG0f7Uiyzs">https://www.youtube.com/watch?v=4OG0f7Uiyzs</a></p><p>Aprende a aplicar estos conocimientos a tus diseños en 👉 <a href="https://skool.com/comunidaduxui">https://skool.com/comunidaduxui</a></p><p>¿Alguna vez te has preguntado por qué siempre queremos empezar un proyecto el lunes o en año nuevo? En este video exploramos las Ciencias del Comportamiento para entender fenómenos como el &quot;Fresh Start Effect&quot; y cómo la temporalidad afecta nuestras decisiones reales, incluso en las empresas.</p><p>Guillermo Ponce Sabido (CEO &amp; Founder de Disruptech) explica cómo las ciencias del comportamiento revelan las trampas invisibles de nuestro cerebro</p><p>Analizamos también la &quot;precrastinación&quot;, esa trampa cerebral donde hacemos tareas pequeñas e irrelevantes solo para obtener una dosis rápida de dopamina, postergando lo que realmente importa. Entender que tu cerebro no es una máquina de eficiencia técnica, sino un órgano diseñado para responder a estímulos, es el primer paso para hackear tu propia productividad y diseño de vida.</p><p>Temas clave del video:</p><p>¿Qué es el Fresh Start Effect y cómo nos condiciona?<br>Auditoría de marketing: Cómo los ciclos afectan los presupuestos.<br>Procrastinación vs. Precrastinación: La trampa de las tareas cortas.<br>La economía de la dopamina y el vacío tras alcanzar metas.<br>Por qué no deberías castigarte por no ser una &quot;máquina&quot; eficiente.</p><p>¡Si te apasiona la psicología aplicada al comportamiento humano y al diseño, suscríbete para más contenido de Comunidad UX • UI!</p><p>0:00 Ganar el oro… y sentirse vacío<br>0:14 Intro<br>0:24 El &quot;fresh start effect&quot;: por qué empezamos el lunes<br>1:30 Los ciclos y una auditoría de marketing real<br>2:50 Precrastinación: la trampa de las tareas chiquitas<br>3:35 La economía de la dopamina<br>4:30 Atletas, oro y el vacío<br>5:15 Tu cerebro no es una máquina de productividad<br>6:25 Eres un ser humano</p><p>#CienciasDelComportamiento #Productividad #PsicologiaUX #FreshStartEffect #Dopamina #UXUI #DiseñoHumano #UX #UXUI #CienciasDelComportamiento #Psicología #Productividad #DiseñoUX #ComunidadUXUI</p>]]></description>
+      <enclosure url="https://github.com/ComunidadUXUI/podcast/releases/download/episodios/ep014-precrastinacion-por-que-hacemos-tareas-que-no-importan-psico.mp3" length="9799859" type="audio/mpeg"/>
+      <itunes:duration>0:06:40</itunes:duration>
+      <itunes:episode>14</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://comunidaduxui.github.io/podcast/cover-3000.jpg"/>
+    </item>
+    <item>
+      <title>Crea tu portfolio UX/UI con IA en 7 días (Día 5)</title>
+      <itunes:title>Crea tu portfolio UX/UI con IA en 7 días (Día 5)</itunes:title>
+      <link>https://www.youtube.com/watch?v=ojd61fI_X68</link>
+      <guid isPermaLink="false">yt:ojd61fI_X68</guid>
+      <pubDate>Sun, 14 Jun 2026 12:00:00 -0300</pubDate>
+      <description><![CDATA[<p>Video original en YouTube: <a href="https://www.youtube.com/watch?v=ojd61fI_X68">https://www.youtube.com/watch?v=ojd61fI_X68</a></p><p>🚨 Para aumentar tu seniority en diseño UX/UI más rápido 👉<a href="https://www.skool.com/comunidaduxui/about">https://www.skool.com/comunidaduxui/about</a></p><p>¡Día 5 del challenge! <br>Transformamos la estructura de nuestro portfolio en una pieza visual impactante. <br>Aprendemos a usar IA para generar mockups, limpiar datos sensibles (NDAs) y asegurar que todo sea accesible.</p><p>🚀 Únete al Challenge completo de 7 días en Skool: <a href="https://www.skool.com/comunidaduxui/about">https://www.skool.com/comunidaduxui/about</a> - Aquí encontrarás los prompts, el Notion y la comunidad para armar tu portfolio paso a paso.</p><p>Puntos clave del video:<br>✨ Cómo manejar proyectos con NDA usando ChatGPT.<br>✨ Optimización de imágenes (WebP) y accesibilidad (Alt-text).<br>✨ Generación de estilos visuales con Claude y Markdown.<br>✨ Integración de CSS en herramientas de código con IA.</p><p>Corre a Skool para acceder al challenge completo!<br><a href="https://www.skool.com/comunidaduxui/about">https://www.skool.com/comunidaduxui/about</a></p><p>#uxuidesign #PortfolioDesign #InteligenciaArtificial #UXDesign #carreratech  #IA #AI #uxui #portfolio #diseñoux #diseñoui #diseñouxui #claude #prompt #lovable #vercel #bolt #claudedesign #chatgpt #mockup</p>]]></description>
+      <enclosure url="https://github.com/ComunidadUXUI/podcast/releases/download/episodios/ep013-crea-tu-portfolio-ux-ui-con-ia-en-7-dias-dia-5.mp3" length="30739560" type="audio/mpeg"/>
+      <itunes:duration>0:21:12</itunes:duration>
+      <itunes:episode>13</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://comunidaduxui.github.io/podcast/cover-3000.jpg"/>
+    </item>
+    <item>
+      <title>Cómo mejorar tu Porfolio UX/UI | Revisión en vivo: Errores que debés evitar y aciertos</title>
+      <itunes:title>Cómo mejorar tu Porfolio UX/UI | Revisión en vivo: Errores que debés evitar y aciertos</itunes:title>
+      <link>https://www.youtube.com/watch?v=026jZjD2XqE</link>
+      <guid isPermaLink="false">yt:026jZjD2XqE</guid>
+      <pubDate>Sun, 31 May 2026 12:00:00 -0300</pubDate>
+      <description><![CDATA[<p>Video original en YouTube: <a href="https://www.youtube.com/watch?v=026jZjD2XqE">https://www.youtube.com/watch?v=026jZjD2XqE</a></p><p>🚨 Para aumentar tu seniority en diseño UX/UI más rápido 👉<a href="https://www.skool.com/comunidaduxui/about">https://www.skool.com/comunidaduxui/about</a></p><p>Si te has preguntado qué ve realmente un reclutador o un Lead Designer cuando abre tu porfolio, este video es para tí.</p><p>En esta sesión de Comunidad UX • UI, Anita (con +10 años de experiencia en diseño) analiza casos reales de miembros premium para separar lo estético de lo funcional.</p><p>🚀 En este video aprenderás:</p><p>* Por qué el &quot;Hover&quot; puede ser tu peor enemigo en UX.<br>* La importancia de la arquitectura de información en mobile vs. desktop.<br>* Cómo comunicar el impacto de un proyecto en solo 5 semanas.<br>* Errores comunes en formularios de reserva (Caso Trenes Argentinos).</p><p>💡 Recuerda: &quot;Dato mata opinión&quot;. Si tu porfolio no está convirtiendo, es momento de iterar.</p><p>0:00 Introducción: Cómo funcionan las revisiones en Comunidad UXUI<br>0:50 Mi experiencia y el proceso de selección<br>2:00 Dato mata opinión: La regla de oro en UX<br>5:06 Revisión 1: Portfolio de Sofía (Estructura y animaciones)<br>14:40 Micro fricciones emocionales y la Ley de Jakob<br>23:20 El embudo de reclutamiento: Cómo se escanea tu portfolio<br>28:46 Prototipos embebidos vs. enlaces externos a Figma<br>40:12 Revisión 2: Portfolio de Juan Martín (Rediseño y flujos)<br>46:49 Cómo justificar en entrevistas las decisiones de los stakeholders<br>49:50 Detalles de UI: Orden alfabético e internacionalización<br>56:29 Cómo enfocar tu portfolio según tu rol (UX Research vs. UI Visual)<br>1:01:31 Q&amp;A: ¿Suma o resta incluir proyectos de práctica (&quot;fake&quot;) o en solitario?<br>1:06:18 Revisión 3: Portfolio de Pilar (Carga web y accesibilidad)<br>1:13:32 El contexto del reclutador: Monitores vs. Dispositivos Mobile<br>1:24:10 Accesibilidad cognitiva, animaciones y sobrecarga de información<br>1:33:30 Arquitectura de la información: Cómo guiar la lectura del usuario<br>1:50:17 El error de ocultar tus hallazgos de investigación (Insights)<br>1:54:29 Cierre: Mentorías y tu propia revisión</p><p>Sumate a Comunidad UX UI en Skool<br><a href="https://www.skool.com/comunidaduxui/about">https://www.skool.com/comunidaduxui/about</a></p>]]></description>
+      <enclosure url="https://github.com/ComunidadUXUI/podcast/releases/download/episodios/ep012-como-mejorar-tu-porfolio-ux-ui-revision-en-vivo-errores-que.mp3" length="166997883" type="audio/mpeg"/>
+      <itunes:duration>1:55:50</itunes:duration>
+      <itunes:episode>12</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://comunidaduxui.github.io/podcast/cover-3000.jpg"/>
+    </item>
+    <item>
+      <title>No Diseñes UI en Alta sin Hacer Esto: Pruebas de Usabilidad Tempranas Cómo Validar tu UX Rápido</title>
+      <itunes:title>No Diseñes UI en Alta sin Hacer Esto: Pruebas de Usabilidad Tempranas Cómo Validar tu UX Rápido</itunes:title>
+      <link>https://www.youtube.com/watch?v=xcyZte-fIbY</link>
+      <guid isPermaLink="false">yt:xcyZte-fIbY</guid>
+      <pubDate>Wed, 27 May 2026 12:00:00 -0300</pubDate>
+      <description><![CDATA[<p>Video original en YouTube: <a href="https://www.youtube.com/watch?v=xcyZte-fIbY">https://www.youtube.com/watch?v=xcyZte-fIbY</a></p><p>🚨 Para aumentar tu seniority en diseño UX/UI más rápido 👉<a href="https://www.skool.com/comunidaduxui/about">https://www.skool.com/comunidaduxui/about</a></p><p>¿Alguna vez sentiste que un diseño &quot;lindo&quot; ocultaba graves problemas de navegación? En este video hablamos sobre la importancia del testing en etapas tempranas y por qué los diseñadores experimentados insistimos tanto en las pruebas de baja fidelidad.</p><p>Exploramos conceptos clave como el Efecto de lo Estético-Usable (basado en el estudio de Kurosu y Kashimura) y cómo el atractivo visual puede sesgar la percepción de los usuarios, haciéndoles creer que algo es fácil de usar cuando no lo es.</p><p>En este video aprenderás: <br>✅ Qué es el testeo temprano y cuándo usar wireframes en blanco y negro. ✅ El sesgo estético: Por qué el &quot;diseño bonito&quot; puede engañarte. <br>✅ Ejemplos prácticos: La prueba de los 5 segundos y validación de comportamientos específicos (como interacciones de drag o jerarquías en dashboards). <br>✅ Cómo analizar métricas reales (tiempo, clics y éxito de tarea) más allá de lo que el usuario dice.</p><p>El objetivo: ¡Equivocarse rápido y aprender barato! 🚀</p><p>✨ Súmate a nuestra comunidad: Si quieres tener conversaciones más activas, acceder a recursos exclusivos o hacer pedidos específicos para nuevos videos, te esperamos en: 👉 <a href="https://www.skool.com/comunidaduxui/about">https://www.skool.com/comunidaduxui/about</a></p><p>¡Felices diseños! 🎨</p>]]></description>
+      <enclosure url="https://github.com/ComunidadUXUI/podcast/releases/download/episodios/ep011-no-disenes-ui-en-alta-sin-hacer-esto-pruebas-de-usabilidad-t.mp3" length="13764033" type="audio/mpeg"/>
+      <itunes:duration>0:09:25</itunes:duration>
+      <itunes:episode>11</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://comunidaduxui.github.io/podcast/cover-3000.jpg"/>
+    </item>
+    <item>
+      <title>Diseño UX/UI con IA en vivo: Claude vs Lovable vs Pencil vs Figma: ¿Cuál diseña mejor?</title>
+      <itunes:title>Diseño UX/UI con IA en vivo: Claude vs Lovable vs Pencil vs Figma: ¿Cuál diseña mejor?</itunes:title>
+      <link>https://www.youtube.com/watch?v=Bvs51L3omTI</link>
+      <guid isPermaLink="false">yt:Bvs51L3omTI</guid>
+      <pubDate>Sun, 24 May 2026 12:00:00 -0300</pubDate>
+      <description><![CDATA[<p>Video original en YouTube: <a href="https://www.youtube.com/watch?v=Bvs51L3omTI">https://www.youtube.com/watch?v=Bvs51L3omTI</a></p><p>¿Realmente la IA puede diseñar una interfaz funcional? Pusimos a prueba a Claude, Lovable, Pencil y Figma con el mismo prompt para ver cuál entrega el mejor resultado para un Senior UX/UI. Spoiler: Los resultados visuales impresionan, pero los errores de accesibilidad son críticos.</p><p>🚀 Únete a la comunidad en Skool para acceder a los recursos y sesiones en vivo: <a href="https://www.skool.com/comunidaduxui/about">https://www.skool.com/comunidaduxui/about</a></p><p>En esta sesión en vivo:<br>Vemos cómo se creó un juego funcional (tipo Doom) en Lovable sin una línea de código.<br>Comparamos la generación de interfaces en tiempo real.<br>Analizamos por qué la IA falla en accesibilidad cognitiva y navegación por teclado.<br>Te enseñamos la estructura de un prompt efectivo para ahorrar tokens y mejorar resultados.</p><p>Capítulos del video: <br>00:00 El experimento: Un mismo prompt para distintas IAs. <br>01:24 Caso Lovable: Creando un videojuego funcional sin código. <br>04:19 Cómo iterar con IA: Del MVP al feedback real. <br>08:54 El truco de Seba: Usar una IA para escribir el prompt de otra. <br>09:06 Estructura perfecta de un Prompt: Rol, Tarea y Restricciones. <br>10:33 ¿Qué es Pencil? La herramienta que diseña en vivo (MCP y Agentes). 13:54 Estrategias de prompting: Por qué el inglés ahorra tokens. <br>16:03 El valor del diseñador: Contexto vs. Generación automática. <br>19:49 Análisis de resultados: &quot;Me duelen los ojos con esta accesibilidad&quot;. 21:54 La importancia de las 54 Leyes del UX. <br>26:13 Sobrecarga cognitiva y fallas de la IA en estados de foco. <br>29:31 Cómo exportar de Pencil a Figma (con Auto Layout). <br>32:38 Usar IA para migrar de industria y crear tu portafolio rápido. <br>35:53 Tip para Cloud: Skills para optimizar el consumo de créditos. <br>39:09 Cómo desarrollar pensamiento crítico analizando interfaces.</p><p>💡 Recuerda: La IA es un copiloto potente, pero el criterio profesional sigue siendo tu mayor ventaja competitiva.<br>La IA no te va a reemplazar (pero un diseñador que la use sí)</p><p>#UXUI #InteligenciaArtificial #ProductDesign #ClaudeAI #Figma #Lovable #Pencil #DiseñoUX</p>]]></description>
+      <enclosure url="https://github.com/ComunidadUXUI/podcast/releases/download/episodios/ep010-diseno-ux-ui-con-ia-en-vivo-claude-vs-lovable-vs-pencil-vs-f.mp3" length="57695496" type="audio/mpeg"/>
+      <itunes:duration>0:39:55</itunes:duration>
+      <itunes:episode>10</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://comunidaduxui.github.io/podcast/cover-3000.jpg"/>
+    </item>
+    <item>
+      <title>Portfolio de Canva a Web con IA: experiencia real UX/UI con Claude y despliegue con Netlify.</title>
+      <itunes:title>Portfolio de Canva a Web con IA: experiencia real UX/UI con Claude y despliegue con Netlify.</itunes:title>
+      <link>https://www.youtube.com/watch?v=hUup74-NFGw</link>
+      <guid isPermaLink="false">yt:hUup74-NFGw</guid>
+      <pubDate>Sat, 02 May 2026 12:00:00 -0300</pubDate>
+      <description><![CDATA[<p>Video original en YouTube: <a href="https://www.youtube.com/watch?v=hUup74-NFGw">https://www.youtube.com/watch?v=hUup74-NFGw</a></p><p>🚨 Para aumentar tu seniority en diseño UX/UI más rápido 👉<a href="https://www.skool.com/comunidaduxui/about">https://www.skool.com/comunidaduxui/about</a></p><p>En este video vas a encontrar el registro real de un proceso (con sus retos y soluciones). Cómo pasar el po</p><p>Acompaña a Luciana durante 2 horas mientras itera funcionalidades y diseño en una sesión sin filtros sobre cómo usar Claude para publicar una web funcional en Netlify partiendo de una base en Canva.</p><p>00:00:00 Introducción – Portfolio de Canva a Web con IA<br>00:00:46 Demo de portfolio funcional (hecho con Claude)<br>00:02:16 El proceso de prompt y lecciones aprendidas<br>00:08:12 Setup: Portfolio base en Canva y CV<br>00:11:06 Análisis inicial del PDF usando Claude<br>00:16:20 Primer borrador de la web generado<br>00:26:31 Debugging en vivo: Problemas de layout y componentes<br>00:35:41 Limpiando el contexto del chat para evitar errores<br>00:50:45 Usando el Inspector web para modificar el código<br>01:02:21 Ajustes de UI: Contraste y accesibilidad visual<br>01:16:09 Reestructurando el layout de la sección &quot;Sobre mí&quot;<br>01:26:56 Pruebas de funcionalidad y navegación<br>01:28:23 Incrustando videos de YouTube en cards de proyectos<br>01:33:29 Día 2: Solucionando JavaScript, filtros y enlaces rotos<br>01:45:25 Ajuste de proporciones en miniaturas de proyectos<br>01:55:38 Refinando la sección y CTA de Contacto<br>02:08:57 Exportando el archivo HTML para producción<br>02:12:36 Despliegue del portfolio en vivo usando Netlify<br>02:15:33 Reflexiones finales sobre iterar productos con IA</p><p>En este registro verás: <br>🔍 El proceso de iterar diseño y lógica directamente con la IA. <br>💡 Un truco para medir la lucidez de la IA antes de empezar. <br>📉 Cómo conocer el consumo de tokens/créditos <br>🛠️ Uso de la inspección de elementos para entender qué hace Claude. <br>🚀 El momento del despliegue real en Netlify.</p><p>Nota para la comunidad: Este video es un registro de trabajo real, no un tutorial paso a paso. Verás errores, vueltas atrás y descubrimientos en tiempo real. <br>¡Ideal para ponerlo de fondo mientras diseñas o para analizar cómo razonar con la IA!</p><p>#sesiondediseño #claude #portfolio #diseñoux #diseñoui #diseñouxui #ia #ai #canva #netlify #diseñadores #inteligenciaartificial #portfoliodesign #ux #ui #uxui #website #webdesign</p>]]></description>
+      <enclosure url="https://github.com/ComunidadUXUI/podcast/releases/download/episodios/ep009-portfolio-de-canva-a-web-con-ia-experiencia-real-ux-ui-con-c.mp3" length="202266239" type="audio/mpeg"/>
+      <itunes:duration>2:20:19</itunes:duration>
+      <itunes:episode>9</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://comunidaduxui.github.io/podcast/cover-3000.jpg"/>
+    </item>
+    <item>
+      <title>¿Por qué nos enamoramos de la IA? La Ciencia del Diseño Afectivo en UX/UU</title>
+      <itunes:title>¿Por qué nos enamoramos de la IA? La Ciencia del Diseño Afectivo en UX/UU</itunes:title>
+      <link>https://www.youtube.com/watch?v=oAL-Qw2xXyg</link>
+      <guid isPermaLink="false">yt:oAL-Qw2xXyg</guid>
+      <pubDate>Tue, 21 Apr 2026 12:00:00 -0300</pubDate>
+      <description><![CDATA[<p>Video original en YouTube: <a href="https://www.youtube.com/watch?v=oAL-Qw2xXyg">https://www.youtube.com/watch?v=oAL-Qw2xXyg</a></p><p>🚨 Para aumentar tu seniority en diseño UX/UI más rápido 👉<a href="https://www.skool.com/comunidaduxui/about">https://www.skool.com/comunidaduxui/about</a></p><p>¿Es posible sentir una conexión real con una inteligencia artificial? 🤖 <br>En este video exploramos la ciencia del comportamiento para entender por qué estamos empezando a formar vínculos emocionales con la tecnología, con Guillermo Ponce Sabido CEO &amp; Founder de Disruptech.</p><p>👉 Si eres product designer y te interesa la psicología del comportamiento para entender a los usuarios y mejorar tus diseños, este video es para tí.</p><p>Te esperamos en Comunidad UX/UI con más info valiosa para tu proceso de diseño.<br><a href="https://www.skool.com/comunidaduxui/about">https://www.skool.com/comunidaduxui/about</a></p><p>#IA #InteligenciaArtificial #PsicologíaDelDiseño #UXUI #diseñoux #diseñouxui #diseñoIA #aidesign #CienciasDelComportamiento #DiseñoAfectivo #ComunidadUXUI #RelacionesHumanas #Tecnología</p>]]></description>
+      <enclosure url="https://github.com/ComunidadUXUI/podcast/releases/download/episodios/ep008-por-que-nos-enamoramos-de-la-ia-la-ciencia-del-diseno-afecti.mp3" length="4423227" type="audio/mpeg"/>
+      <itunes:duration>0:02:56</itunes:duration>
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://comunidaduxui.github.io/podcast/cover-3000.jpg"/>
+    </item>
+    <item>
+      <title>¿Adiós a Figma? Probando CLAUDE DESIGN Herramienta IMPARABLE para DISEÑAR con IA</title>
+      <itunes:title>¿Adiós a Figma? Probando CLAUDE DESIGN Herramienta IMPARABLE para DISEÑAR con IA</itunes:title>
+      <link>https://www.youtube.com/watch?v=VFn6DhrjirQ</link>
+      <guid isPermaLink="false">yt:VFn6DhrjirQ</guid>
+      <pubDate>Fri, 17 Apr 2026 12:00:00 -0300</pubDate>
+      <description><![CDATA[<p>Video original en YouTube: <a href="https://www.youtube.com/watch?v=VFn6DhrjirQ">https://www.youtube.com/watch?v=VFn6DhrjirQ</a></p><p>Sumate a la comunidad: <a href="https://www.skool.com/comunidaduxui/about">https://www.skool.com/comunidaduxui/about</a></p><p>¿Claude Design va a cambiar nuestra forma de trabajar? 🤯 En este video, exploramos a fondo la nueva función de Anthropic Labs que permite crear diseños, prototipos interactivos y presentaciones simplemente conversando con la IA.</p><p>Acompaña a Anita en este primer contacto con la herramienta, donde ponemos a prueba su capacidad para: <br>✅ Generar un Design System desde cero. <br>✅ Crear un proyecto de prueba interactivo. <br>✅ Iterar diseños mediante prompts conversacionales. <br>✅ Analizar decisiones de diseño y accesibilidad.</p><p>¿Es realmente el &quot;punto de partida&quot; revolucionario que prometen? Quédate hasta el final para ver qué pasa cuando nos quedamos sin créditos y cuáles son nuestras primeras impresiones reales como diseñadores UX/UI.</p><p>00:00 Introducción a Claude Design<br>00:40 Primeros pasos y configuración del proyecto<br>01:14 Creando nuestro Sistema de Diseño<br>02:37 ¿La IA reemplazará a los diseñadores UX/UI?<br>04:22 Documentación y ventajas en el flujo de trabajo<br>07:27 Comunidad UX/UI en Skool<br>08:19 Revisando el Sistema de Diseño generado<br>10:30 Ajustes de componentes y fuentes de marca<br>13:37 Creación de una Landing Page de alta fidelidad<br>16:26 Definiendo el prompt y la estructura de la página<br>18:59 Tips de diseño y Handoff a código<br>21:27 Explorando la Landing Page generada<br>24:02 Pruebas de edición en vivo con prompts<br>26:23 Ajustes manuales en la interfaz y cierre</p><p>🚨 Para aumentar tu seniority en diseño UX/UI más rápido 👉<a href="https://www.skool.com/comunidaduxui/about">https://www.skool.com/comunidaduxui/about</a> </p><p>#ClaudeDesign #InteligenciaArtificial #DiseñoUXUI #Anthropic #UXDesign #UIDesign #IAparaDiseñadores #DesignSystem #PrototipadoIA #promt #promteo #vibedesign #vibecoding #diseñoux #diseñoui</p>]]></description>
+      <enclosure url="https://github.com/ComunidadUXUI/podcast/releases/download/episodios/ep007-adios-a-figma-probando-claude-design-herramienta-imparable-p.mp3" length="40461563" type="audio/mpeg"/>
+      <itunes:duration>0:27:57</itunes:duration>
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://comunidaduxui.github.io/podcast/cover-3000.jpg"/>
+    </item>
+    <item>
+      <title>DISEÑOS ADICTIVOS Cómo Están Cambiando los PRODUCTOS DIGITALES en 2026 - Psicología Aplicada a UX UI</title>
+      <itunes:title>DISEÑOS ADICTIVOS Cómo Están Cambiando los PRODUCTOS DIGITALES en 2026 - Psicología Aplicada a UX UI</itunes:title>
+      <link>https://www.youtube.com/watch?v=6Skf3Lz7MVI</link>
+      <guid isPermaLink="false">yt:6Skf3Lz7MVI</guid>
+      <pubDate>Wed, 15 Apr 2026 12:00:00 -0300</pubDate>
+      <description><![CDATA[<p>Video original en YouTube: <a href="https://www.youtube.com/watch?v=6Skf3Lz7MVI">https://www.youtube.com/watch?v=6Skf3Lz7MVI</a></p><p>🚨 Para aumentar tu seniority en diseño UX/UI más rápido 👉<a href="https://www.skool.com/comunidaduxui/about">https://www.skool.com/comunidaduxui/about</a></p><p>¿Sabes por qué a veces no puedes dejar de mirar el teléfono aunque estés cansado? <br>Es porque las apps funcionan como dulces: te dan un poquito de alegría rápido, pero luego te duele la panza y te sientes solo.</p><p>En este video aprenderás:<br>👉 Cómo los circuitos evolutivos del cerebro (supervivencia y reproducción) son hackeados por las interfaces modernas.<br>👉 La diferencia real entre el impacto de la dopamina y la oxitocina en la retención de usuarios.<br>👉 Por qué el diseño de plataformas como TikTok o Meta está enfrentando una crisis de saturación.<br>👉 El auge de los &quot;AI Companions&quot; y el diseño centrado en la comunidad y el acompañamiento.</p><p>Si eres product designer y te interesa la psicología del comportamiento para entender a los usuarios y mejorar tus diseños, este video es para tí.</p><p>Gracias Guillermo Ponce!! 💖</p><p>Te esperamos en Comunidad UX/UI con más info valiosa para tu proceso de diseño.<br><a href="https://www.skool.com/comunidaduxui/about">https://www.skool.com/comunidaduxui/about</a></p>]]></description>
+      <enclosure url="https://github.com/ComunidadUXUI/podcast/releases/download/episodios/ep006-disenos-adictivos-como-estan-cambiando-los-productos-digital.mp3" length="8963572" type="audio/mpeg"/>
+      <itunes:duration>0:06:05</itunes:duration>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://comunidaduxui.github.io/podcast/cover-3000.jpg"/>
+    </item>
+    <item>
+      <title>Que LOVABLE (y cualquier IA) te haga caso en 3 PASOS, es fácil (si eres DISEÑADOR UX/UI)</title>
+      <itunes:title>Que LOVABLE (y cualquier IA) te haga caso en 3 PASOS, es fácil (si eres DISEÑADOR UX/UI)</itunes:title>
+      <link>https://www.youtube.com/watch?v=Su73wF7_29M</link>
+      <guid isPermaLink="false">yt:Su73wF7_29M</guid>
+      <pubDate>Sat, 04 Apr 2026 12:00:00 -0300</pubDate>
+      <description><![CDATA[<p>Video original en YouTube: <a href="https://www.youtube.com/watch?v=Su73wF7_29M">https://www.youtube.com/watch?v=Su73wF7_29M</a></p><p>🚨 Para aumentar tu seniority más rápido 👉 <a href="https://www.skool.com/comunidaduxui/about">https://www.skool.com/comunidaduxui/about</a></p><p>Lovable es una plataforma que le permite a cualquier persona construir apps y sitios web completos, simplemente diciendo lo que quiere. </p><p>Conoce los 3 pasos para lograr los mejores resultados.</p><p>#ia #ai #vibedesign #vibecoding #ux #ui #diseñoux #diseñoui  #diseñouxui #diseñadoruxui</p>]]></description>
+      <enclosure url="https://github.com/ComunidadUXUI/podcast/releases/download/episodios/ep005-que-lovable-y-cualquier-ia-te-haga-caso-en-3-pasos-es-facil.mp3" length="28413696" type="audio/mpeg"/>
+      <itunes:duration>0:19:35</itunes:duration>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://comunidaduxui.github.io/podcast/cover-3000.jpg"/>
+    </item>
+    <item>
+      <title>3 Secretos de UX RESEARCH de las BIG TECH que la IA NO puede hacer</title>
+      <itunes:title>3 Secretos de UX RESEARCH de las BIG TECH que la IA NO puede hacer</itunes:title>
+      <link>https://www.youtube.com/watch?v=grUG91cEmGs</link>
+      <guid isPermaLink="false">yt:grUG91cEmGs</guid>
+      <pubDate>Sun, 15 Mar 2026 12:00:00 -0300</pubDate>
+      <description><![CDATA[<p>Video original en YouTube: <a href="https://www.youtube.com/watch?v=grUG91cEmGs">https://www.youtube.com/watch?v=grUG91cEmGs</a></p><p>🚨 Para aumentar tu seniority más rápido 👉 <a href="https://www.skool.com/comunidaduxui/about">https://www.skool.com/comunidaduxui/about</a></p><p>¿Crees que las encuestas y entrevistas son la mejor forma de conocer a tu usuario? Piénsalo de nuevo. 🤯</p><p>En el mundo del UX Research de alto nivel, lo que la gente DICE suele ser muy distinto a lo que la gente HACE. En este video, te revelo 3 técnicas revolucionarias (y casi &quot;secretas&quot;) que las Big Tech utilizan para obtener datos reales, sin sesgos y que ninguna Inteligencia Artificial podrá replicar jamás.</p><p>Si eres un researcher o diseñador que quiere dejar de suponer y empezar a validar con la realidad, este video es para ti.</p><p>#UXResearch #UserExperience #UXUI #DiseñoDeProducto #BigTech #InvestigacionDeUsuarios #ComunidadUXUI #UXTips #UX #UI #UXUI #uxdesign</p>]]></description>
+      <enclosure url="https://github.com/ComunidadUXUI/podcast/releases/download/episodios/ep004-3-secretos-de-ux-research-de-las-big-tech-que-la-ia-no-puede.mp3" length="10705697" type="audio/mpeg"/>
+      <itunes:duration>0:07:17</itunes:duration>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://comunidaduxui.github.io/podcast/cover-3000.jpg"/>
+    </item>
+    <item>
+      <title>Por Qué te Ghostean en Entrevistas de UX/UI (No es tu Portfolio… son Estos 5 Sesgos)</title>
+      <itunes:title>Por Qué te Ghostean en Entrevistas de UX/UI (No es tu Portfolio… son Estos 5 Sesgos)</itunes:title>
+      <link>https://www.youtube.com/watch?v=68QxxsNuUhY</link>
+      <guid isPermaLink="false">yt:68QxxsNuUhY</guid>
+      <pubDate>Fri, 27 Feb 2026 12:00:00 -0300</pubDate>
+      <description><![CDATA[<p>Video original en YouTube: <a href="https://www.youtube.com/watch?v=68QxxsNuUhY">https://www.youtube.com/watch?v=68QxxsNuUhY</a></p><p>🚨 Para aumentar tu seniority más rápido 👉 <a href="https://www.skool.com/comunidaduxui/about">https://www.skool.com/comunidaduxui/about</a></p><p>Si estás aplicando a puestos de UX/UI Designer y sientes que algunas entrevistas van GENIAL… pero de repente te ghostean o te dicen “avanzamos con otro candidato” sin explicación… este video es para vos.</p><p>• Sesgo de confirmación (“Ya te juzgué en los primeros 3 minutos”)<br>• Sesgo de anclaje de expectativas<br>• Efecto halo (y su versión negativa)<br>• Sesgo de similitud<br>• Sesgo de afinidad (“Me caes re bien… pero no sé por qué”)</p><p>Comenta: ¿Cuál de estos 5 sesgos te pegó más fuerte en alguna entrevista? 👇<br>Si te sirvió, dale LIKE y suscríbete para más tips reales de carrera UX/UI</p>]]></description>
+      <enclosure url="https://github.com/ComunidadUXUI/podcast/releases/download/episodios/ep003-por-que-te-ghostean-en-entrevistas-de-ux-ui-no-es-tu-portfol.mp3" length="9911471" type="audio/mpeg"/>
+      <itunes:duration>0:06:44</itunes:duration>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://comunidaduxui.github.io/podcast/cover-3000.jpg"/>
+    </item>
+    <item>
+      <title>DISEÑO UX UI exitoso: PSICOLOGÍA de la EXPECTATIVA vs REALIDAD</title>
+      <itunes:title>DISEÑO UX UI exitoso: PSICOLOGÍA de la EXPECTATIVA vs REALIDAD</itunes:title>
+      <link>https://www.youtube.com/watch?v=OsX70r3PnGw</link>
+      <guid isPermaLink="false">yt:OsX70r3PnGw</guid>
+      <pubDate>Fri, 13 Feb 2026 12:00:00 -0300</pubDate>
+      <description><![CDATA[<p>Video original en YouTube: <a href="https://www.youtube.com/watch?v=OsX70r3PnGw">https://www.youtube.com/watch?v=OsX70r3PnGw</a></p><p>🚨 Para aumentar tu seniority más rápido 👉 <a href="https://www.skool.com/comunidaduxui/about">https://www.skool.com/comunidaduxui/about</a></p><p>Aprende a &quot;hackear&quot; la mente de tus usuarios para diseñar apps y productos que enamoren y retengan. <br>Basado en análisis de cientos de productos exitosos, Anita Sevilla Ull desglosa la ciencia detrás de los mejores diseños UX/UI</p><p>¡Suscríbete para no perderte más videos como este! Dale like y comenta qué temas de diseño de producto quieres que toquemos en próximos videos.</p><p>¡Felices diseños!</p>]]></description>
+      <enclosure url="https://github.com/ComunidadUXUI/podcast/releases/download/episodios/ep002-diseno-ux-ui-exitoso-psicologia-de-la-expectativa-vs-realida.mp3" length="16532527" type="audio/mpeg"/>
+      <itunes:duration>0:11:20</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://comunidaduxui.github.io/podcast/cover-3000.jpg"/>
+    </item>
+    <item>
+      <title>6 Heurísticas del comportamiento humano para el diseño de productos</title>
+      <itunes:title>6 Heurísticas del comportamiento humano para el diseño de productos</itunes:title>
+      <link>https://www.youtube.com/watch?v=b7UEfYJNsbU</link>
+      <guid isPermaLink="false">yt:b7UEfYJNsbU</guid>
+      <pubDate>Thu, 11 Jul 2024 12:00:00 -0300</pubDate>
+      <description><![CDATA[<p>Video original en YouTube: <a href="https://www.youtube.com/watch?v=b7UEfYJNsbU">https://www.youtube.com/watch?v=b7UEfYJNsbU</a></p><p>🚨 Para aumentar tu seniority más rápido 👉 <a href="https://www.skool.com/comunidaduxui/about">https://www.skool.com/comunidaduxui/about</a></p><p>Podemos tener claro cuáles son las mejores prácticas respecto a la usabilidad y el diseño de un producto digital, pero si no entendemos las motivaciones psicológicas para el uso de ese producto, perdemos una gran oportunidad para entender y hablarle al usuario.</p><p>Puedes ver el vivo completo en  <a href="https://www.youtube.com/live/9DRoijoFCUE?si=2q5aNeWEEbp44Y-o">https://www.youtube.com/live/9DRoijoFCUE?si=2q5aNeWEEbp44Y-o</a></p><p>--<br>Guillermo Ponce Sabido es un consultor de negocios, behavioral scientist y emprendedor que se distingue por su enfoque en neurociencia y por diseñar algoritmos especializados en segmentación de audiencias para crear campañas digitales con retornos de inversión mucho más altos que cualquier campaña tradicional. Por su trayectoria de más de 12 años diseñando tecnología y campañas digitales para diversos sectores garantiza resultados medibles para sus clientes a diferencia de agencias que no asumen responsabilidad por el desempeño financiero de las campañas que ejecutan. </p><p>En cuando a su formación académica es egresado de la carrera de Administración y de la carrera de Relaciones Internacionales por el ITAM, posteriormente realizó una maestría en Mercadotecnia en esa misma institución con especialización en Neuromarketing.</p><p>Debido a su interés por la tecnología emergente en el 2010 emprendió su primera empresa dedicada al desarrollo de software de aplicación para gobierno Mini3, en 2013 se separó de este proyecto y Co-fundó su empresa actual Disruptech, consultora dedicada a la creación de estrategias de mercadotecnia, diseño de algoritmos y desarrollo de tecnología para el sector privado. Ha trabajado con diferentes sectores como el inmobiliario, cadenas de autoservicio, sector médico, restaurantes, empresas de tecnología y educación superior. Es Co-fundador de NomiCash, Startup Fintech, Ethos medical, medio digital de salud y bienestar y Mi Empresa Sobre Ruedas, empresa dedicada a la creación de unidades móviles que van desde quirófanos hasta Foodtrucks.</p><p>Actualmente trabaja de la mano con clientes que desean crecer sus negocios en el espectro digital apalancándose de la tecnología y plataformas más relevantes, siempre abierto a nuevos retos y a ayudar a quien lo necesite.</p>]]></description>
+      <enclosure url="https://github.com/ComunidadUXUI/podcast/releases/download/episodios/ep001-6-heuristicas-del-comportamiento-humano-para-el-diseno-de-pr.mp3" length="7377350" type="audio/mpeg"/>
+      <itunes:duration>0:04:59</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://comunidaduxui.github.io/podcast/cover-3000.jpg"/>
+    </item>
+  </channel>
+</rss>
