@@ -7,10 +7,10 @@
   <channel>
     <title>Comunidad UXUI</title>
     <link>https://www.skool.com/comunidaduxui/about</link>
-    <atom:link href="https://comunidaduxui.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://podcast.comunidaduxui.com/feed.xml" rel="self" type="application/rss+xml"/>
     <language>es</language>
     <copyright>© Comunidad UXUI</copyright>
-    <lastBuildDate>Tue, 29 Sep 2026 09:36:12 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 15:16:17 -0300</lastBuildDate>
     <description>El podcast de Comunidad UXUI. Los episodios son la versión en audio de las charlas, análisis y consejos del canal de YouTube: psicología aplicada al diseño, IA para diseñadores, portfolio, entrevistas y carrera en UX/UI. Sumate a la comunidad en https://www.skool.com/comunidaduxui/about</description>
     <itunes:subtitle>Aumenta tu seniority en diseño UX/UI a ritmo acelerado</itunes:subtitle>
     <itunes:summary>El podcast de Comunidad UXUI. Los episodios son la versión en audio de las charlas, análisis y consejos del canal de YouTube: psicología aplicada al diseño, IA para diseñadores, portfolio, entrevistas y carrera en UX/UI. Sumate a la comunidad en https://www.skool.com/comunidaduxui/about</itunes:summary>
@@ -19,14 +19,14 @@
       <itunes:name>Comunidad UXUI</itunes:name>
       <itunes:email>uxuicomunidad@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://comunidaduxui.github.io/podcast/cover-3000.jpg"/>
-    <image><url>https://comunidaduxui.github.io/podcast/cover-3000.jpg</url><title>Comunidad UXUI</title><link>https://www.skool.com/comunidaduxui/about</link></image>
+    <itunes:image href="https://podcast.comunidaduxui.com/cover-3000.jpg"/>
+    <image><url>https://podcast.comunidaduxui.com/cover-3000.jpg</url><title>Comunidad UXUI</title><link>https://www.skool.com/comunidaduxui/about</link></image>
     <itunes:category text="Technology"></itunes:category>
     <itunes:category text="Arts"><itunes:category text="Design"/></itunes:category>
     <itunes:category text="Education"><itunes:category text="How To"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <podcast:guid>3bae9856-0673-5e27-9b8c-57ef8c1df7dc</podcast:guid>
+    <podcast:guid>e2f35a62-bab6-598f-b0bf-71b89582f11d</podcast:guid>
     <podcast:locked owner="uxuicomunidad@gmail.com">no</podcast:locked>
     <item>
       <title>Cómo pasar de junior a senior en UX sin esperar a que pasen los años</title>
@@ -40,7 +40,7 @@
       <itunes:episode>23</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://comunidaduxui.github.io/podcast/cover-3000.jpg"/>
+      <itunes:image href="https://podcast.comunidaduxui.com/cover-3000.jpg"/>
     </item>
     <item>
       <title>¿La IA te va a quitar el trabajo? Lo que dice la ciencia del comportamiento</title>
@@ -54,7 +54,7 @@
       <itunes:episode>22</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://comunidaduxui.github.io/podcast/cover-3000.jpg"/>
+      <itunes:image href="https://podcast.comunidaduxui.com/cover-3000.jpg"/>
     </item>
     <item>
       <title>Sabios consejos de UX de un product designer ex desarrollador</title>
@@ -68,7 +68,7 @@
       <itunes:episode>21</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://comunidaduxui.github.io/podcast/cover-3000.jpg"/>
+      <itunes:image href="https://podcast.comunidaduxui.com/cover-3000.jpg"/>
     </item>
     <item>
       <title>Prueba social en Diseño UX: La técnica psicológica que todo diseñador Senior domina</title>
@@ -82,7 +82,7 @@
       <itunes:episode>20</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://comunidaduxui.github.io/podcast/cover-3000.jpg"/>
+      <itunes:image href="https://podcast.comunidaduxui.com/cover-3000.jpg"/>
     </item>
     <item>
       <title>La seniority no se mide en años: 9 consejos para diseñadores UX UI</title>
@@ -96,7 +96,7 @@
       <itunes:episode>19</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://comunidaduxui.github.io/podcast/cover-3000.jpg"/>
+      <itunes:image href="https://podcast.comunidaduxui.com/cover-3000.jpg"/>
     </item>
     <item>
       <title>La línea entre diseñar bien y manipular es más fina de lo que parece | Psico + UX</title>
@@ -110,7 +110,7 @@
       <itunes:episode>18</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://comunidaduxui.github.io/podcast/cover-3000.jpg"/>
+      <itunes:image href="https://podcast.comunidaduxui.com/cover-3000.jpg"/>
     </item>
     <item>
       <title>Cómo poner métricas en tu portfolio UX (sin tener datos)</title>
@@ -124,7 +124,7 @@
       <itunes:episode>17</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://comunidaduxui.github.io/podcast/cover-3000.jpg"/>
+      <itunes:image href="https://podcast.comunidaduxui.com/cover-3000.jpg"/>
     </item>
     <item>
       <title>No confíes en la IA para UX sin ver esto: Probando a Claude en una Auditoría</title>
@@ -138,7 +138,7 @@
       <itunes:episode>16</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://comunidaduxui.github.io/podcast/cover-3000.jpg"/>
+      <itunes:image href="https://podcast.comunidaduxui.com/cover-3000.jpg"/>
     </item>
     <item>
       <title>Cómo sobrevivir a un jefe que diseña con IA</title>
@@ -152,7 +152,7 @@
       <itunes:episode>15</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://comunidaduxui.github.io/podcast/cover-3000.jpg"/>
+      <itunes:image href="https://podcast.comunidaduxui.com/cover-3000.jpg"/>
     </item>
     <item>
       <title>Precrastinación: ¿Por qué hacemos tareas que no importan? | Psicología + UX</title>
@@ -166,7 +166,7 @@
       <itunes:episode>14</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://comunidaduxui.github.io/podcast/cover-3000.jpg"/>
+      <itunes:image href="https://podcast.comunidaduxui.com/cover-3000.jpg"/>
     </item>
     <item>
       <title>Crea tu portfolio UX/UI con IA en 7 días (Día 5)</title>
@@ -180,7 +180,7 @@
       <itunes:episode>13</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://comunidaduxui.github.io/podcast/cover-3000.jpg"/>
+      <itunes:image href="https://podcast.comunidaduxui.com/cover-3000.jpg"/>
     </item>
     <item>
       <title>Cómo mejorar tu Porfolio UX/UI | Revisión en vivo: Errores que debés evitar y aciertos</title>
@@ -194,7 +194,7 @@
       <itunes:episode>12</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://comunidaduxui.github.io/podcast/cover-3000.jpg"/>
+      <itunes:image href="https://podcast.comunidaduxui.com/cover-3000.jpg"/>
     </item>
     <item>
       <title>No Diseñes UI en Alta sin Hacer Esto: Pruebas de Usabilidad Tempranas Cómo Validar tu UX Rápido</title>
@@ -208,7 +208,7 @@
       <itunes:episode>11</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://comunidaduxui.github.io/podcast/cover-3000.jpg"/>
+      <itunes:image href="https://podcast.comunidaduxui.com/cover-3000.jpg"/>
     </item>
     <item>
       <title>Diseño UX/UI con IA en vivo: Claude vs Lovable vs Pencil vs Figma: ¿Cuál diseña mejor?</title>
@@ -222,7 +222,7 @@
       <itunes:episode>10</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://comunidaduxui.github.io/podcast/cover-3000.jpg"/>
+      <itunes:image href="https://podcast.comunidaduxui.com/cover-3000.jpg"/>
     </item>
     <item>
       <title>Portfolio de Canva a Web con IA: experiencia real UX/UI con Claude y despliegue con Netlify.</title>
@@ -236,7 +236,7 @@
       <itunes:episode>9</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://comunidaduxui.github.io/podcast/cover-3000.jpg"/>
+      <itunes:image href="https://podcast.comunidaduxui.com/cover-3000.jpg"/>
     </item>
     <item>
       <title>¿Por qué nos enamoramos de la IA? La Ciencia del Diseño Afectivo en UX/UU</title>
@@ -250,7 +250,7 @@
       <itunes:episode>8</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://comunidaduxui.github.io/podcast/cover-3000.jpg"/>
+      <itunes:image href="https://podcast.comunidaduxui.com/cover-3000.jpg"/>
     </item>
     <item>
       <title>¿Adiós a Figma? Probando CLAUDE DESIGN Herramienta IMPARABLE para DISEÑAR con IA</title>
@@ -264,7 +264,7 @@
       <itunes:episode>7</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://comunidaduxui.github.io/podcast/cover-3000.jpg"/>
+      <itunes:image href="https://podcast.comunidaduxui.com/cover-3000.jpg"/>
     </item>
     <item>
       <title>DISEÑOS ADICTIVOS Cómo Están Cambiando los PRODUCTOS DIGITALES en 2026 - Psicología Aplicada a UX UI</title>
@@ -278,7 +278,7 @@
       <itunes:episode>6</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://comunidaduxui.github.io/podcast/cover-3000.jpg"/>
+      <itunes:image href="https://podcast.comunidaduxui.com/cover-3000.jpg"/>
     </item>
     <item>
       <title>Que LOVABLE (y cualquier IA) te haga caso en 3 PASOS, es fácil (si eres DISEÑADOR UX/UI)</title>
@@ -292,7 +292,7 @@
       <itunes:episode>5</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://comunidaduxui.github.io/podcast/cover-3000.jpg"/>
+      <itunes:image href="https://podcast.comunidaduxui.com/cover-3000.jpg"/>
     </item>
     <item>
       <title>3 Secretos de UX RESEARCH de las BIG TECH que la IA NO puede hacer</title>
@@ -306,7 +306,7 @@
       <itunes:episode>4</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://comunidaduxui.github.io/podcast/cover-3000.jpg"/>
+      <itunes:image href="https://podcast.comunidaduxui.com/cover-3000.jpg"/>
     </item>
     <item>
       <title>Por Qué te Ghostean en Entrevistas de UX/UI (No es tu Portfolio… son Estos 5 Sesgos)</title>
@@ -320,7 +320,7 @@
       <itunes:episode>3</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://comunidaduxui.github.io/podcast/cover-3000.jpg"/>
+      <itunes:image href="https://podcast.comunidaduxui.com/cover-3000.jpg"/>
     </item>
     <item>
       <title>DISEÑO UX UI exitoso: PSICOLOGÍA de la EXPECTATIVA vs REALIDAD</title>
@@ -334,7 +334,7 @@
       <itunes:episode>2</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://comunidaduxui.github.io/podcast/cover-3000.jpg"/>
+      <itunes:image href="https://podcast.comunidaduxui.com/cover-3000.jpg"/>
     </item>
     <item>
       <title>6 Heurísticas del comportamiento humano para el diseño de productos</title>
@@ -348,7 +348,7 @@
       <itunes:episode>1</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://comunidaduxui.github.io/podcast/cover-3000.jpg"/>
+      <itunes:image href="https://podcast.comunidaduxui.com/cover-3000.jpg"/>
     </item>
   </channel>
 </rss>
