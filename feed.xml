@@ -10,7 +10,7 @@
     <atom:link href="https://podcast.comunidaduxui.com/feed.xml" rel="self" type="application/rss+xml"/>
     <language>es</language>
     <copyright>© Comunidad UXUI</copyright>
-    <lastBuildDate>Tue, 29 Sep 2026 15:16:17 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 16:20:52 -0300</lastBuildDate>
     <description>El podcast de Comunidad UXUI. Los episodios son la versión en audio de las charlas, análisis y consejos del canal de YouTube: psicología aplicada al diseño, IA para diseñadores, portfolio, entrevistas y carrera en UX/UI. Sumate a la comunidad en https://www.skool.com/comunidaduxui/about</description>
     <itunes:subtitle>Aumenta tu seniority en diseño UX/UI a ritmo acelerado</itunes:subtitle>
     <itunes:summary>El podcast de Comunidad UXUI. Los episodios son la versión en audio de las charlas, análisis y consejos del canal de YouTube: psicología aplicada al diseño, IA para diseñadores, portfolio, entrevistas y carrera en UX/UI. Sumate a la comunidad en https://www.skool.com/comunidaduxui/about</itunes:summary>
@@ -28,6 +28,20 @@
     <itunes:type>episodic</itunes:type>
     <podcast:guid>e2f35a62-bab6-598f-b0bf-71b89582f11d</podcast:guid>
     <podcast:locked owner="uxuicomunidad@gmail.com">no</podcast:locked>
+    <item>
+      <title>Tu trabajo NO es caerle bien al usuario | 10 tips de UX research</title>
+      <itunes:title>Tu trabajo NO es caerle bien al usuario | 10 tips de UX research</itunes:title>
+      <link>https://www.youtube.com/watch?v=oLFfh8HpTXs</link>
+      <guid isPermaLink="false">yt:oLFfh8HpTXs</guid>
+      <pubDate>Tue, 22 Sep 2026 12:00:00 -0300</pubDate>
+      <description><![CDATA[<p>Video original en YouTube: <a href="https://www.youtube.com/watch?v=oLFfh8HpTXs">https://www.youtube.com/watch?v=oLFfh8HpTXs</a></p><p><a href="https://www.skool.com/comunidaduxui/about">https://www.skool.com/comunidaduxui/about</a></p><p>&quot;¿Cuál es mi objetivo en esta prueba? Llevarme mucha información. No caerle bien al entrevistado.&quot;<br>10 consejos de research para entrevistas con usuarios y pruebas de usabilidad, sacados de ensayos reales con diseñadoras de la comunidad.</p><p>Esto no es teoría de manual: son los errores que aparecen en cada prueba de usabilidad y lo que hay que hacer en su lugar.</p><p>LO QUE VAS A APRENDER<br>▸ Por qué &quot;vos no hiciste este producto&quot; es lo primero que tenés que decir<br>▸ Cómo presentar la prueba sin jerga: el usuario no sabe qué es un prototipo<br>▸ La tarea, no la pregunta. Y por qué cinco segundos de silencio valen más que una repregunta<br>▸ Qué ves, qué pensás, qué entendés, qué sentís: el orden importa <br>▸ Por qué el &quot;por qué&quot; sesga, y qué preguntar en su lugar <br>▸ Por qué no se toca el prototipo una vez que empezaron las pruebas <br>▸ El consejo que cierra: vayan a hacer malas entrevistas para hacer buenas entrevistas</p><p>¿Cuál de los 10 te cuesta más? Contame en los comentarios: los uso para el próximo video.</p><p>Sumate a Comunidad UX UI, la comunidad de diseño de producto en español con mentorías, prácticas grupales y research en vivo 👉 <a href="https://skool.com/comunidaduxui">https://skool.com/comunidaduxui</a></p><p>CAPÍTULOS<br>0:00 Tu trabajo no es caerle bien al usuario<br>0:26 TIP 1: Entrá por la puerta (Acto I · Antes de la prueba)<br>1:04 TIP 2: Vos no hiciste este producto<br>2:11 TIP 3: Hablá como usuario, no como diseñador<br>3:06 TIP 4: La tarea, no la pregunta (Acto II · Durante la prueba)<br>3:51 TIP 5: Cinco segundos de silencio<br>4:31 TIP 6: Observá con todo el cuerpo<br>5:58 TIP 7: Qué ves, qué pensás, qué sentís<br>7:09 TIP 8: Sacá el &quot;por qué&quot; y el &quot;ría&quot;<br>8:09 Comunidad UX UI<br>8:54 TIP 9: No se toca el prototipo (Acto III · Entre prueba y prueba)<br>9:40 TIP 10: No es opinión, es dato<br>11:02 Vayan a hacer malas entrevistas</p>]]></description>
+      <enclosure url="https://github.com/ComunidadUXUI/podcast/releases/download/episodios/ep024-tu-trabajo-no-es-caerle-bien-al-usuario-10-tips-de-ux-resear.mp3" length="16748759" type="audio/mpeg"/>
+      <itunes:duration>0:11:29</itunes:duration>
+      <itunes:episode>24</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://podcast.comunidaduxui.com/cover-3000.jpg"/>
+    </item>
     <item>
       <title>Cómo pasar de junior a senior en UX sin esperar a que pasen los años</title>
       <itunes:title>Cómo pasar de junior a senior en UX sin esperar a que pasen los años</itunes:title>
