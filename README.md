@@ -1,3 +1,5 @@
 # Podcast de Comunidad UXUI
 
-Feed y reproductor del podcast de Comunidad UXUI: https://comunidaduxui.github.io/podcast/
+Feed: https://podcast.comunidaduxui.com/feed.xml
+
+Reproductor: https://podcast.comunidaduxui.com/
