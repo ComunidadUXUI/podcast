@@ -12,12 +12,34 @@ h1{margin:0 0 4px;font-size:32px} h2{font-size:18px;margin:0 0 4px}
 a{color:var(--mag)} .meta{color:var(--mute);margin:0 0 8px;font-size:14px}
 article{padding:20px 0;border-top:1px solid #333} audio{width:100%}
 .sub a{display:inline-block;margin:6px 8px 0 0;padding:6px 12px;border:1px solid var(--mag);border-radius:999px;text-decoration:none;font-size:14px}
+.nl{border:1px solid #3a3a3a;border-left:4px solid var(--mag);border-radius:4px;padding:20px 22px;margin:20px 0}
+.nl .eyebrow{font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:var(--mag);margin:0 0 6px} .nl .asuntos{margin-top:10px;font-size:14px;font-style:italic}
+.nl h2{font-size:20px;margin:0 0 6px} .nl p{margin:0;color:var(--mute)}
+.nl form{display:flex;flex-wrap:wrap;gap:10px;margin-top:14px}
+.nl input[type=email]{flex:1 1 220px;min-height:44px;padding:10px 14px;border:1px solid #6b6b6b;border-radius:4px;background:transparent;color:var(--fg);font:inherit}
+.nl button{min-height:44px;padding:10px 20px;border:0;border-radius:4px;background:#D81B60;color:#fff;font:inherit;font-weight:700;cursor:pointer}
+.nl input:focus-visible,.nl button:focus-visible{outline:3px solid var(--mag);outline-offset:2px}
+.nl .nota{margin-top:10px;font-size:14px} .nl .ok{color:var(--fg);font-weight:600} .nl .error{color:var(--mag);font-weight:600}
+.vh{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
 </style></head><body><main>
 <header><img src="cover-600.jpg" alt="Comunidad UXUI"><div>
 <h1>Comunidad UXUI · Podcast</h1><p class="meta">Aumenta tu seniority en diseño UX/UI a ritmo acelerado</p>
-<p class="sub"><a href="https://podcast.comunidaduxui.com/feed.xml">Feed RSS</a><a href="https://www.skool.com/comunidaduxui/about">Sumate a la comunidad</a><a href="https://www.youtube.com/@ComunidadUXUI">YouTube</a></p>
+<p class="sub"><a href="https://podcast.comunidaduxui.com/feed.xml">Feed RSS</a><a href="https://www.skool.com/comunidaduxui/about">Súmate a la comunidad</a><a href="https://www.youtube.com/@ComunidadUXUI">YouTube</a><a href="https://comunidad-uxui.kit.com/fb40f8e711">Newsletter</a></p>
 </div></header>
 <article><h2>24. Tu trabajo NO es caerle bien al usuario | 10 tips de UX research</h2><p class="meta">22/09/2026 · 0:11:29 · <a href="https://www.youtube.com/watch?v=oLFfh8HpTXs">ver en YouTube</a></p><audio controls preload="none" src="https://github.com/ComunidadUXUI/podcast/releases/download/episodios/ep024-tu-trabajo-no-es-caerle-bien-al-usuario-10-tips-de-ux-resear.mp3"></audio></article>
+<section class="nl" aria-labelledby="nl-titulo">
+<p class="eyebrow">Newsletter · Minuto UX</p>
+<h2 id="nl-titulo">La voz del podcast, por escrito y en un minuto.</h2>
+<p>Minuto UX es el newsletter de Comunidad UXUI, escrito por Anita Sevilla Ull: una idea concreta por correo sobre portfolio, entrevistas, research o IA, sacada de sus mentorías. Se lee en un minuto.</p>
+<p class="asuntos">Algunos asuntos: «La seniority no se mide en años» · «No defiendas tu diseño» · «Abriste Figma demasiado rápido»</p>
+<form action="https://app.kit.com/forms/9994514/subscriptions" method="post" data-nl>
+<label class="vh" for="nl-email">Tu correo</label>
+<input id="nl-email" name="email_address" type="email" autocomplete="email" placeholder="tu@correo.com" required>
+<input type="hidden" name="fields[origen]" value="podcast">
+<button type="submit">Quiero recibirlo</button>
+</form>
+<p class="nota" data-nl-estado role="status">Ya lo leen más de 3.5K personas. Te das de baja con un clic.</p>
+</section>
 <article><h2>23. Cómo pasar de junior a senior en UX sin esperar a que pasen los años</h2><p class="meta">13/09/2026 · 0:12:32 · <a href="https://www.youtube.com/watch?v=nYp-od8wARc">ver en YouTube</a></p><audio controls preload="none" src="https://github.com/ComunidadUXUI/podcast/releases/download/episodios/ep023-como-pasar-de-junior-a-senior-en-ux-sin-esperar-a-que-pasen.mp3"></audio></article>
 <article><h2>22. ¿La IA te va a quitar el trabajo? Lo que dice la ciencia del comportamiento</h2><p class="meta">28/08/2026 · 0:14:45 · <a href="https://www.youtube.com/watch?v=nkxB2Fupi4E">ver en YouTube</a></p><audio controls preload="none" src="https://github.com/ComunidadUXUI/podcast/releases/download/episodios/ep022-la-ia-te-va-a-quitar-el-trabajo-lo-que-dice-la-ciencia-del-c.mp3"></audio></article>
 <article><h2>21. Sabios consejos de UX de un product designer ex desarrollador</h2><p class="meta">22/08/2026 · 0:10:49 · <a href="https://www.youtube.com/watch?v=EvjEqK-pxVU">ver en YouTube</a></p><audio controls preload="none" src="https://github.com/ComunidadUXUI/podcast/releases/download/episodios/ep021-sabios-consejos-de-ux-de-un-product-designer-ex-desarrollado.mp3"></audio></article>
@@ -41,4 +63,21 @@ article{padding:20px 0;border-top:1px solid #333} audio{width:100%}
 <article><h2>3. Por Qué te Ghostean en Entrevistas de UX/UI (No es tu Portfolio… son Estos 5 Sesgos)</h2><p class="meta">27/02/2026 · 0:06:44 · <a href="https://www.youtube.com/watch?v=68QxxsNuUhY">ver en YouTube</a></p><audio controls preload="none" src="https://github.com/ComunidadUXUI/podcast/releases/download/episodios/ep003-por-que-te-ghostean-en-entrevistas-de-ux-ui-no-es-tu-portfol.mp3"></audio></article>
 <article><h2>2. DISEÑO UX UI exitoso: PSICOLOGÍA de la EXPECTATIVA vs REALIDAD</h2><p class="meta">13/02/2026 · 0:11:20 · <a href="https://www.youtube.com/watch?v=OsX70r3PnGw">ver en YouTube</a></p><audio controls preload="none" src="https://github.com/ComunidadUXUI/podcast/releases/download/episodios/ep002-diseno-ux-ui-exitoso-psicologia-de-la-expectativa-vs-realida.mp3"></audio></article>
 <article><h2>1. 6 Heurísticas del comportamiento humano para el diseño de productos</h2><p class="meta">11/07/2024 · 0:04:59 · <a href="https://www.youtube.com/watch?v=b7UEfYJNsbU">ver en YouTube</a></p><audio controls preload="none" src="https://github.com/ComunidadUXUI/podcast/releases/download/episodios/ep001-6-heuristicas-del-comportamiento-humano-para-el-diseno-de-pr.mp3"></audio></article>
-</main></body></html>
+</main>
+<script>
+// Newsletter: sin JavaScript el formulario se envía a Kit y muestra su propia página.
+document.querySelectorAll('[data-nl]').forEach(f => f.addEventListener('submit', async e => {
+  e.preventDefault()
+  const estado = f.parentElement.querySelector('[data-nl-estado]')
+  const decir = (txt, tipo) => { estado.textContent = txt; estado.className = 'nota ' + (tipo || '') }
+  f.querySelector('button').disabled = true
+  try {
+    const r = await fetch(f.action, { method: 'POST', body: new FormData(f), headers: { Accept: 'application/json' } })
+    const d = await r.json().catch(() => ({}))
+    if (d.status === 'success') { decir('Listo. Te enviamos un correo para confirmar la suscripción.', 'ok'); f.reset() }
+    else decir('Revisa el correo: parece que falta algo o tiene un error.', 'error')
+  } catch { decir('No se pudo enviar. Revisa tu conexión e intenta de nuevo.', 'error') }
+  f.querySelector('button').disabled = false
+}))
+</script>
+</body></html>
